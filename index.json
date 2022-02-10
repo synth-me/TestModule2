@@ -1,0 +1,12 @@
+{
+    "package_name": "Package Daniel",
+    "dependencies": [],
+    "package_aggr": [],
+    "package_plugin_config": [
+        {
+            "name_module": "module2",
+            "agg_route": ["underground","aboveground"],
+            "script_path": "test_aboveground"
+        }
+    ]
+}
