@@ -1,0 +1,2 @@
+main = do
+	EXPORT INPT
